@@ -115,6 +115,6 @@ def ejecutar():
         except ValueError as e:
             print(f"Error de cálculo o formato: {e}")
 
-if __name__ == "__main__":
-    ejecutar()
+#if __name__ == "__main__":
+ejecutar()
     
